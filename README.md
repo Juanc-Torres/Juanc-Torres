@@ -4,12 +4,12 @@
 
 ### 👨🏻‍💻 Sobre Mi
 
-👨‍💻 Actualmente: Desarrollando mi Proyecto Final de Bootcamp con mi equipo.
-💡 Foco: Apasionado por el Front-end, especializado en React y Node.js.
-🎓 Aprendiendo: Perfeccionando el ecosistema Full Stack y arquitecturas modernas.
-✍️ Hobbies: Entusiasta de la montaña, el deporte y las charlas en la naturaleza.
-💬 Contacto: jc.torres.rodriguez00@gmail.com
-🔗 Redes: <a target="_blank" href="https://www.linkedin.com/in/juan-carlos-torres-rodríguez/">Linkedin</a>
+👨‍💻 &nbsp; Actualmente: Desarrollando mi Proyecto Final de Bootcamp con mi equipo.<br>
+💡 &nbsp; Foco: Apasionado por el Front-end, especializado en React y Node.js.<br>
+🎓 &nbsp;Aprendiendo: Perfeccionando el ecosistema Full Stack y arquitecturas modernas.<br>
+✍️ &nbsp;Hobbies: Entusiasta de la montaña, el deporte y las charlas en la naturaleza.<br>
+💬 &nbsp;Contacto: jc.torres.rodriguez00@gmail.com<br>
+🔗 &nbsp;Redes: <a target="_blank" href="https://www.linkedin.com/in/juan-carlos-torres-rodríguez/">Linkedin</a>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400"/>
 
