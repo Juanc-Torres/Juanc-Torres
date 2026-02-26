@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
-<!-- 👇 SOLO deja esto si de verdad lo estás aprendiendo / tocando -->
 <h3>📚 Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/Testing%20(Jest%20%2F%20RTL)-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest/RTL">
@@ -75,8 +74,6 @@
   🔸 <b>Proyecto Front</b> — SPA React con componentes reutilizables y routing.<br>
   🔸 <b>API REST</b> — Node/Express con arquitectura por capas y manejo de errores.<br>
 </p>
-
-<p><i>👉 (Añade aquí links a repos/demos para que esto tenga más fuerza)</i></p>
 
 ---
 
