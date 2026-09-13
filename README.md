@@ -2,16 +2,16 @@
 
 # Juan Carlos Torres
 
-### Full Stack Developer · Data Specialist · Computer Vision Enthusiast
+### Desarrollador Full Stack · Especialista en Datos · Computer Vision
 
-Building modern web applications, REST APIs and data-driven solutions with a focus on clean architecture, scalability and real-world impact.
+Desarrollo aplicaciones web modernas, APIs REST y soluciones orientadas a datos con React, Node.js, Python y AWS.
 
 <br>
 
 <a href="https://juanc-torres.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://www.linkedin.com/in/juan-carlos-torres-rodriguez/">
+<a href="https://www.linkedin.com/in/jc-torres-rodriguez/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/Juanc-Torres">
@@ -25,90 +25,22 @@ Building modern web applications, REST APIs and data-driven solutions with a foc
 
 ---
 
-## About Me
+## Sobre mí
 
-I am a Full Stack Developer and Data Specialist based in Cádiz, Spain.
+Soy desarrollador Full Stack y especialista en datos, residente en Cádiz, España.
 
-My work combines frontend development, backend architecture, databases, cloud services and data processing. I enjoy transforming business requirements into reliable, maintainable and scalable software.
+Me interesa construir aplicaciones fiables, mantenibles y escalables, combinando desarrollo frontend, backend, bases de datos, servicios cloud, procesamiento de datos y visión artificial.
 
-Currently, I work with React, Node.js, Python, PySpark, PostgreSQL and AWS while continuing to expand my knowledge in artificial intelligence and computer vision.
-
----
-
-## Professional Experience
-
-### Full Stack Developer & Data Specialist
-
-**TRIGO Aerospace, Defense & Rail | Airbus**  
-`April 2026 – September 2026`
-
-- Developed dynamic web applications using React, JavaScript, HTML and CSS.
-- Analysed and transformed large datasets using Python and PySpark.
-- Managed incidents and queries in PostgreSQL.
-- Worked with AWS EC2, S3 and Lambda services.
-- Maintained Node.js services responsible for request traffic.
-- Contributed to software solutions in an industrial and enterprise environment.
-
-### Full Stack Developer
-
-**Brüver**  
-`October 2025 – February 2026`
-
-- Designed and optimised relational databases with MySQL.
-- Developed secure REST APIs with Node.js and Express.
-- Built user interfaces with React.
-- Managed version control and collaboration through GitHub.
-- Worked with Scrum sprints and task planning in Trello.
-- Implemented file uploads using Multer.
-- Integrated email services with Nodemailer.
-
-### Systems and Network Technician
-
-**Danielec**  
-`March 2021 – September 2022`
-
-- Administered Linux and Windows Server environments.
-- Developed REST APIs with Node.js.
-- Managed services deployed on AWS.
-- Installed and configured local networks.
-- Worked with IP addressing, cabling and network nodes.
-- Managed WordPress and PrestaShop websites.
-- Processed and imported data using CSV files.
+Actualmente trabajo con React, Node.js, Python, PySpark, PostgreSQL y AWS, mientras continúo formándome en inteligencia artificial, machine learning y computer vision.
 
 ---
 
-## Featured Project
-
-### GUN DATECTOR
-
-Educational computer vision project for real-time detection through a webcam.
-
-The application detects:
-
-- People with green bounding boxes.
-- Pistols with red bounding boxes.
-- Knives with red bounding boxes.
-- Risk status and confidence scores.
-- FPS and detection counters.
-- Automatic evidence captures when a new weapon is detected.
-- A visual panel with the latest evidence and detection history.
-
-### Technologies
-
-`Python` `OpenCV` `Ultralytics YOLO` `PyTorch` `NumPy` `CVAT`
-
-The model was trained with a custom dataset. Images were labelled in CVAT and exported in YOLO format before training and validation.
-
-> This is an educational prototype and is not intended to replace a certified security system or make decisions about people.
-
----
-
-## Technical Skills
+## Tecnologías
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,astro,js,html,css,sass,tailwind,bootstrap,vite" alt="Frontend technologies">
+  <img src="https://skillicons.dev/icons?i=react,astro,js,html,css,sass,tailwind,bootstrap,vite" alt="Tecnologías frontend">
 </p>
 
 React · Astro · JavaScript · HTML5 · CSS3 · Sass · Tailwind CSS · Bootstrap · Vite · jQuery
@@ -116,100 +48,180 @@ React · Astro · JavaScript · HTML5 · CSS3 · Sass · Tailwind CSS · Bootstr
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Tecnologías backend">
 </p>
 
-Node.js · Express · Python · REST APIs · Zod · bcrypt · Multer · Nodemailer
+Node.js · Express · Python · APIs REST · Zod · bcrypt · Multer · Nodemailer
 
-### Databases
+### Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database technologies">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bases de datos">
 </p>
 
 MySQL · PostgreSQL · SQL
 
-### Cloud and DevOps
+### Cloud y DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel" alt="Cloud and DevOps technologies">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel" alt="Cloud y DevOps">
 </p>
 
 AWS EC2 · AWS S3 · AWS Lambda · Vercel · Docker · GitHub Actions
 
-### Data and Artificial Intelligence
+### Datos e inteligencia artificial
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Data and AI technologies">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Datos e inteligencia artificial">
 </p>
 
 Python · PySpark · Power BI · PyTorch · YOLO · OpenCV · Computer Vision · Machine Learning
 
-### Tools and Methodologies
+### Herramientas y metodologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode" alt="Herramientas">
 </p>
 
 Git · GitHub · Postman · Figma · Linux · Visual Studio Code · Scrum · Trello
 
 ---
 
-## Education
+## Experiencia profesional
 
-- **Higher Technician in Multiplatform Application Development**
-- **Full Stack Developer Bootcamp** — Socratech School
-- **Technician in Microcomputer Systems and Networks** — IES Rafael Alberti
+### Full Stack Developer & Data Specialist
+
+**TRIGO Aerospace, Defense & Rail | Airbus**  
+`Abril 2026 – Septiembre 2026`
+
+- Desarrollo de aplicaciones dinámicas con React, JavaScript, HTML y CSS.
+- Análisis y transformación de grandes volúmenes de datos con Python y PySpark.
+- Gestión de incidencias y consultas en PostgreSQL.
+- Trabajo con servicios AWS EC2, S3 y Lambda.
+- Mantenimiento de servicios Node.js para la gestión de peticiones.
+- Desarrollo de soluciones dentro de un entorno industrial y empresarial.
+
+### Full Stack Developer
+
+**Brüver**  
+`Octubre 2025 – Febrero 2026`
+
+- Diseño y optimización de bases de datos relacionales con MySQL.
+- Desarrollo de APIs REST seguras con Node.js y Express.
+- Creación de interfaces de usuario con React.
+- Gestión del control de versiones mediante Git y GitHub.
+- Participación en sprints Scrum y planificación de tareas con Trello.
+- Gestión de subida de archivos mediante Multer.
+- Integración de servicios de correo electrónico con Nodemailer.
+
+### Técnico en Sistemas Microinformáticos y Redes
+
+**Danielec**  
+`Marzo 2021 – Septiembre 2022`
+
+- Administración de sistemas Linux y Windows Server.
+- Desarrollo de APIs REST con Node.js.
+- Gestión de servicios desplegados en AWS.
+- Instalación y configuración de redes locales.
+- Configuración de direccionamiento IP, cableado y nodos de red.
+- Gestión de sitios web con WordPress y PrestaShop.
+- Procesamiento y carga de datos mediante archivos CSV.
 
 ---
 
-## Certifications and Training
+## Proyecto destacado
+
+### GUN DATECTOR
+
+Prototipo educativo de visión artificial para detectar personas, pistolas y cuchillos en tiempo real utilizando una webcam.
+
+Características principales:
+
+- Detección de personas con cuadros verdes.
+- Detección de pistolas y cuchillos con cuadros rojos.
+- Estado visual de riesgo.
+- Porcentaje de confianza de cada detección.
+- Contador de personas, armas y FPS.
+- Captura automática de evidencias.
+- Panel lateral con historial de detecciones.
+- Apertura directa de la última evidencia y de su carpeta.
+- Modelo personalizado entrenado con imágenes propias.
+- Validación del modelo mediante imágenes separadas del entrenamiento.
+
+### Tecnologías utilizadas
+
+`Python` `OpenCV` `Ultralytics YOLO` `PyTorch` `NumPy` `CVAT`
+
+El proyecto se desarrolló desde cero siguiendo este proceso:
+
+1. Captura de imágenes mediante webcam.
+2. División de las imágenes en entrenamiento y validación.
+3. Etiquetado de personas, pistolas y cuchillos mediante CVAT.
+4. Exportación de las anotaciones en formato YOLO.
+5. Entrenamiento de un modelo personalizado.
+6. Validación del modelo.
+7. Integración del modelo en una aplicación de vídeo en tiempo real.
+8. Creación de una interfaz visual con OpenCV.
+9. Implementación de un sistema de evidencias automático.
+
+> Este proyecto es educativo y no debe utilizarse como sistema de seguridad real ni como única base para tomar decisiones sobre personas.
+
+---
+
+## Educación
+
+- **FPII Desarrollo de Aplicaciones Multiplataforma**
+- **Bootcamp de Desarrollo Full Stack** — Socratech School
+- **FPI Sistemas Microinformáticos y Redes** — IES Rafael Alberti
+
+---
+
+## Certificaciones y formación
 
 - Power BI — Santander Open Academy
 - GitHub Foundations — Udemy
-- Web Pentesting — Udemy
-- Generative AI and Prompt Engineering — IBM
-- Cybersecurity MOOC — University of Málaga and INCIBE
-- English B1 — British Council
+- Pentesting en webs — Udemy
+- Generative AI: Prompt Engineering — IBM
+- MOOC en Ciberseguridad — Universidad de Málaga e INCIBE
+- Inglés B1 — British Council
 
 ---
 
-## Currently Learning
+## Actualmente aprendiendo
 
-- Automated testing with Jest and React Testing Library.
-- Docker and containerised applications.
-- CI/CD pipelines.
-- Advanced computer vision.
-- Machine learning model evaluation.
-- Scalable backend and cloud architectures.
-
----
-
-## Languages
-
-- Spanish — Native
-- English — B1 CEFR
+- Testing automatizado con Jest y React Testing Library.
+- Docker y aplicaciones contenerizadas.
+- Automatización de procesos CI/CD.
+- Evaluación de modelos de machine learning.
+- Visión artificial avanzada.
+- Arquitecturas backend escalables.
+- Servicios cloud y despliegues en AWS.
 
 ---
 
-## GitHub Activity
+## Idiomas
+
+- Español — Nativo
+- Inglés — B1 CEFR
+
+---
+
+## Portfolio y actividad
+
+Puedes consultar mis proyectos, experiencia y formación en:
+
+- [Portfolio personal](https://juanc-torres.github.io/)
+- [Perfil de LinkedIn](https://www.linkedin.com/in/jc-torres-rodriguez/)
+- [Perfil de GitHub](https://github.com/Juanc-Torres)
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juanc-Torres&show_icons=true&hide_border=true&theme=transparent&title_color=0f766e&icon_color=0f766e&text_color=475569" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanc-Torres&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=475569" alt="Most used languages">
-
-</div>
-
----
-
-<div align="center">
-
-### Building useful software, learning continuously and improving every day.
+### Construyendo software útil, aprendiendo continuamente y mejorando cada día.
 
 <a href="https://juanc-torres.github.io/">
-  View my portfolio
+  Ver mi portfolio
 </a>
 
 </div>
