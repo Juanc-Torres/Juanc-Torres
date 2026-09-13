@@ -29,9 +29,9 @@ Desarrollo aplicaciones web modernas, APIs REST y soluciones orientadas a datos 
 
 Soy desarrollador Full Stack y especialista en datos, residente en Cádiz, España.
 
-Me interesa construir aplicaciones fiables, mantenibles y escalables, combinando desarrollo frontend, backend, bases de datos, servicios cloud, procesamiento de datos y visión artificial.
+Me interesa crear software útil, mantenible y escalable, combinando desarrollo frontend, backend, bases de datos, servicios cloud, procesamiento de datos e inteligencia artificial.
 
-Actualmente trabajo con React, Node.js, Python, PySpark, PostgreSQL y AWS, mientras continúo formándome en inteligencia artificial, machine learning y computer vision.
+Actualmente trabajo con React, Node.js, Python, PySpark, PostgreSQL y AWS, mientras continúo formándome en machine learning y visión artificial.
 
 ---
 
@@ -94,25 +94,24 @@ Git · GitHub · Postman · Figma · Linux · Visual Studio Code · Scrum · Tre
 **TRIGO Aerospace, Defense & Rail | Airbus**  
 `Abril 2026 – Septiembre 2026`
 
-- Desarrollo de aplicaciones dinámicas con React, JavaScript, HTML y CSS.
-- Análisis y transformación de grandes volúmenes de datos con Python y PySpark.
+- Desarrollo de aplicaciones con React, JavaScript, HTML y CSS.
+- Análisis y transformación de datos con Python y PySpark.
 - Gestión de incidencias y consultas en PostgreSQL.
-- Trabajo con servicios AWS EC2, S3 y Lambda.
-- Mantenimiento de servicios Node.js para la gestión de peticiones.
-- Desarrollo de soluciones dentro de un entorno industrial y empresarial.
+- Trabajo con AWS EC2, S3 y Lambda.
+- Mantenimiento de servicios Node.js.
+- Desarrollo de soluciones para un entorno industrial y empresarial.
 
 ### Full Stack Developer
 
 **Brüver**  
 `Octubre 2025 – Febrero 2026`
 
-- Diseño y optimización de bases de datos relacionales con MySQL.
-- Desarrollo de APIs REST seguras con Node.js y Express.
-- Creación de interfaces de usuario con React.
-- Gestión del control de versiones mediante Git y GitHub.
-- Participación en sprints Scrum y planificación de tareas con Trello.
-- Gestión de subida de archivos mediante Multer.
-- Integración de servicios de correo electrónico con Nodemailer.
+- Desarrollo de APIs REST con Node.js y Express.
+- Creación de interfaces con React.
+- Diseño y optimización de bases de datos MySQL.
+- Gestión de archivos con Multer.
+- Integración de correos con Nodemailer.
+- Trabajo con GitHub, Scrum y Trello.
 
 ### Técnico en Sistemas Microinformáticos y Redes
 
@@ -121,50 +120,142 @@ Git · GitHub · Postman · Figma · Linux · Visual Studio Code · Scrum · Tre
 
 - Administración de sistemas Linux y Windows Server.
 - Desarrollo de APIs REST con Node.js.
-- Gestión de servicios desplegados en AWS.
-- Instalación y configuración de redes locales.
-- Configuración de direccionamiento IP, cableado y nodos de red.
-- Gestión de sitios web con WordPress y PrestaShop.
-- Procesamiento y carga de datos mediante archivos CSV.
+- Gestión de servicios en AWS.
+- Configuración de redes locales.
+- Gestión de WordPress y PrestaShop.
+- Procesamiento de datos mediante archivos CSV.
 
 ---
 
-## Proyecto destacado
+## Proyectos destacados
+
+### Pilates Barbate
+
+<a href="https://juanc-torres.github.io/portfolio/projects/PilatesBarbate">
+  <img src="https://juanc-torres.github.io/images/projects/pilatesbarbate.png" alt="Vista previa de Pilates Barbate" width="600">
+</a>
+
+Página web para un estudio de Pilates, diseñada para mostrar sus servicios, bonos, instalaciones, filosofía y formas de contacto.
+
+Incluye diseño responsive, traducción al inglés, optimización SEO, datos estructurados, sitemap, Open Graph y diferentes llamadas a la acción.
+
+**Tecnologías:**
+
+`Astro` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `PostCSS` `Node.js` `JSON-LD` `Git`
+
+[Ver proyecto](https://juanc-torres.github.io/portfolio/projects/PilatesBarbate)
+
+---
+
+### Laboro Asesores
+
+<a href="https://juanc-torres.github.io/portfolio/projects/LaboroAsesores">
+  <img src="https://juanc-torres.github.io/images/projects/laboro_asesores.jpg" alt="Vista previa de Laboro Asesores" width="600">
+</a>
+
+Aplicación web Full Stack desarrollada para una empresa de asesoría.
+
+El proyecto se centró en mejorar la presencia digital del negocio mediante una estructura clara, contenidos optimizados y una estrategia SEO orientada al posicionamiento local.
+
+**Tecnologías:**
+
+`React` `Node.js` `JavaScript` `Vite` `HTML5` `CSS3` `Git` `GitHub`
+
+[Ver proyecto](https://juanc-torres.github.io/portfolio/projects/LaboroAsesores)
+
+---
+
+### ByPepamartín
+
+<a href="https://juanc-torres.github.io/portfolio/projects/pepamartin">
+  <img src="https://juanc-torres.github.io/images/projects/bypepamartin.png" alt="Vista previa de ByPepamartín" width="600">
+</a>
+
+Web Full Stack para mostrar el trabajo artístico de una fotógrafa.
+
+Incluye galería de fotografías, vídeos y una sección informativa sobre la artista.
+
+**Tecnologías:**
+
+`React` `Node.js` `JavaScript` `Vite` `HTML5` `CSS3` `Git` `GitHub`
+
+[Ver proyecto](https://juanc-torres.github.io/portfolio/projects/pepamartin)
+
+---
+
+### Portfolio personal
+
+<a href="https://juanc-torres.github.io/portfolio/projects/portafolio">
+  <img src="https://juanc-torres.github.io/images/projects/portafolio.png" alt="Vista previa del portfolio" width="600">
+</a>
+
+Portfolio personal desarrollado para mostrar mis proyectos, experiencia y evolución profesional.
+
+Está construido con una arquitectura limpia, modular y orientada al rendimiento.
+
+**Tecnologías:**
+
+`Astro` `Tailwind CSS` `JavaScript`
+
+[Ver proyecto](https://juanc-torres.github.io/portfolio/projects/portafolio)
+
+---
+
+### Brüver
+
+<a href="https://juanc-torres.github.io/portfolio/projects/br%C3%BCver">
+  <img src="https://juanc-torres.github.io/images/projects/bruver.png" alt="Vista previa de Brüver" width="600">
+</a>
+
+Aplicación web Full Stack para la gestión de citas y horarios de una marca de cuidado de mascotas.
+
+El proyecto incluye organización de citas, gestión de horarios y comunicación con clientes mediante correo electrónico.
+
+**Tecnologías:**
+
+`React` `Node.js` `Express` `MySQL` `JavaScript` `Vite` `Zod` `bcrypt` `Nodemailer` `React Big Calendar` `Scrum`
+
+[Ver proyecto](https://juanc-torres.github.io/portfolio/projects/br%C3%BCver)
+
+---
+
+### Proyecto clasificado
+
+<a href="https://juanc-torres.github.io/portfolio/projects/Clasificado">
+  <img src="https://juanc-torres.github.io/images/projects/worker.png" alt="Vista previa del proyecto clasificado" width="600">
+</a>
+
+Proyecto web privado desarrollado para una necesidad específica de cliente.
+
+Por motivos de privacidad y confidencialidad, los detalles técnicos y el código no son públicos.
+
+[Ver información disponible](https://juanc-torres.github.io/portfolio/projects/Clasificado)
+
+---
+
+## Proyecto de inteligencia artificial
 
 ### GUN DATECTOR
 
-Prototipo educativo de visión artificial para detectar personas, pistolas y cuchillos en tiempo real utilizando una webcam.
+Prototipo educativo de visión artificial capaz de detectar personas, pistolas y cuchillos en tiempo real utilizando una webcam.
 
-Características principales:
+El sistema utiliza un modelo YOLO personalizado, entrenado con imágenes etiquetadas en CVAT.
 
-- Detección de personas con cuadros verdes.
-- Detección de pistolas y cuchillos con cuadros rojos.
+**Características principales:**
+
+- Cuadros verdes para personas.
+- Cuadros rojos para pistolas y cuchillos.
 - Estado visual de riesgo.
-- Porcentaje de confianza de cada detección.
+- Confianza de las detecciones.
 - Contador de personas, armas y FPS.
-- Captura automática de evidencias.
+- Capturas automáticas de evidencias.
 - Panel lateral con historial de detecciones.
-- Apertura directa de la última evidencia y de su carpeta.
-- Modelo personalizado entrenado con imágenes propias.
-- Validación del modelo mediante imágenes separadas del entrenamiento.
 
-### Tecnologías utilizadas
+**Tecnologías:**
 
 `Python` `OpenCV` `Ultralytics YOLO` `PyTorch` `NumPy` `CVAT`
 
-El proyecto se desarrolló desde cero siguiendo este proceso:
-
-1. Captura de imágenes mediante webcam.
-2. División de las imágenes en entrenamiento y validación.
-3. Etiquetado de personas, pistolas y cuchillos mediante CVAT.
-4. Exportación de las anotaciones en formato YOLO.
-5. Entrenamiento de un modelo personalizado.
-6. Validación del modelo.
-7. Integración del modelo en una aplicación de vídeo en tiempo real.
-8. Creación de una interfaz visual con OpenCV.
-9. Implementación de un sistema de evidencias automático.
-
-> Este proyecto es educativo y no debe utilizarse como sistema de seguridad real ni como única base para tomar decisiones sobre personas.
+> Proyecto educativo. No está diseñado para sustituir un sistema de seguridad certificado ni para tomar decisiones automáticas sobre personas.
 
 ---
 
@@ -206,22 +297,16 @@ El proyecto se desarrolló desde cero siguiendo este proceso:
 
 ---
 
-## Portfolio y actividad
-
-Puedes consultar mis proyectos, experiencia y formación en:
+## Enlaces
 
 - [Portfolio personal](https://juanc-torres.github.io/)
-- [Perfil de LinkedIn](https://www.linkedin.com/in/jc-torres-rodriguez/)
-- [Perfil de GitHub](https://github.com/Juanc-Torres)
+- [LinkedIn](https://www.linkedin.com/in/jc-torres-rodriguez/)
+- [GitHub](https://github.com/Juanc-Torres)
 
 ---
 
 <div align="center">
 
 ### Construyendo software útil, aprendiendo continuamente y mejorando cada día.
-
-<a href="https://juanc-torres.github.io/">
-  Ver mi portfolio
-</a>
 
 </div>
